@@ -2,6 +2,9 @@
 
 A 3D engine built in C and OpenGL, featuring deferred rendering, Phong shading, normal mapping, tessellation, shadow mapping, and postprocessing effects. The engine includes camera, lighting, and scene management systems, dynamic shader reloading, and a GUI for real-time control.
 
+This project was developed at FH Wedel as part of the **Visual Effects & Shader** module.  
+All files in this repository created and edited by me can be identified by the prefix `stud` in the authors list.
+
 ## Features
 
 - **Deferred Rendering Pipeline**
